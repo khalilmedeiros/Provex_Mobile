@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Provex</string>
+    <string name="simulados">Simulados</string>
+    <string name="vizualizar">Visualizar provas</string>
+    <string name="nomeEmpresa">Empresa:</string>
+    <string name="orgaoPublico">"Órgão Público "</string>
+    <string name="estado">Estado:</string>
+    <string name="orgPublico">Órgão Público:</string>
+    <string name="ano">Ano:</string>
+    <string name="nivel">Nível:</string>
+    <string name="cargo">Cargo:</string>
+</resources>
